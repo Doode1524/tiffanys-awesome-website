@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/tiffanys-awesome-website/static/css/main.073c9b0a.css",
-    "main.js": "/tiffanys-awesome-website/static/js/main.c8d2ccb7.js",
+    "main.js": "/tiffanys-awesome-website/static/js/main.ea6ef9d5.js",
     "static/js/787.6c7bb7ce.chunk.js": "/tiffanys-awesome-website/static/js/787.6c7bb7ce.chunk.js",
-    "static/media/logo.svg": "/tiffanys-awesome-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tiffanys-awesome-website/index.html",
     "main.073c9b0a.css.map": "/tiffanys-awesome-website/static/css/main.073c9b0a.css.map",
-    "main.c8d2ccb7.js.map": "/tiffanys-awesome-website/static/js/main.c8d2ccb7.js.map",
+    "main.ea6ef9d5.js.map": "/tiffanys-awesome-website/static/js/main.ea6ef9d5.js.map",
     "787.6c7bb7ce.chunk.js.map": "/tiffanys-awesome-website/static/js/787.6c7bb7ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c8d2ccb7.js"
+    "static/js/main.ea6ef9d5.js"
   ]
 }
